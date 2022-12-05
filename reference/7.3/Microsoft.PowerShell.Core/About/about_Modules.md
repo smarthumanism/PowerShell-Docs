@@ -44,7 +44,7 @@ need to manage modules after you install them on your computer.
 
 The commands in a module are also easier to find. The `Get-Command` cmdlet now
 gets all commands in all installed modules, even if they are not yet in the
-session. You can find a command and use it without importing needing to import
+session. You can find a command and use it without importing
 the module first.
 
 Each of the following examples cause the CimCmdlets module, which contains
